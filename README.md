@@ -1,7 +1,7 @@
 # hello-world
 nothing 
 je 
-commenc
+commence
 a
 faire
 la 
